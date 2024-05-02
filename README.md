@@ -1,1 +1,2 @@
 # Autowrape
+A Small scale industry in Belagavi is in the need of an automatic package system to pack the groceries, small packets of Betel Nuts, Asafoetida (Hing) small packets, saunf packets. Design an automatic packing machine, which requires small area about 1.5 by 1.5 feet. And will be able to fill about 150 gms of material in a single packet or container ,which must be portable and cost efficient ( must not exceed Rs.3,500).
